@@ -13,7 +13,7 @@
     "react-landing-page": "^2.0.2",
     "react-paypal-express-checkout": "^1.0.5",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "styled-components": "^5.1.0"
   },
   "scripts": {
